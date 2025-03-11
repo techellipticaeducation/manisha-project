@@ -1,0 +1,12 @@
+<allemp>
+<emp id="1">
+        <firstname>Manisha</firstname>
+        <age>26</age>
+        <city>Pune</city>
+</emp>
+<emp id="2">
+        <firstname>Manisha1</firstname>
+        <age>23</age>
+        <city>Mumbai</city>
+</emp>
+</allemp>
